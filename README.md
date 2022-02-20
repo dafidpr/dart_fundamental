@@ -1,1 +1,1 @@
-# dart_fundamental
+A simple command-line application.
